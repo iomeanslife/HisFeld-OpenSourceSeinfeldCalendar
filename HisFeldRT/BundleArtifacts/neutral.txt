@@ -1,4 +1,0 @@
-MainPackage=C:\Users\salem_000\Documents\Visual Studio 2013\Projects\HisFeldTry1\HisFeldRT\bin\Release\HisFeldRT_1.1.0.1_Bundle\HisFeldRT_1.1.0.1_AnyCPU.appx
-SymbolPackage=C:\Users\salem_000\Documents\Visual Studio 2013\Projects\HisFeldTry1\HisFeldRT\AppPackages\HisFeldRT_1.1.0.1_Test\HisFeldRT_1.1.0.1_AnyCPU.appxsym
-ResourcePack=C:\Users\salem_000\Documents\Visual Studio 2013\Projects\HisFeldTry1\HisFeldRT\bin\Release\HisFeldRT_1.1.0.1_Bundle\HisFeldRT_1.1.0.1_scale-140.appx
-ResourcePack=C:\Users\salem_000\Documents\Visual Studio 2013\Projects\HisFeldTry1\HisFeldRT\bin\Release\HisFeldRT_1.1.0.1_Bundle\HisFeldRT_1.1.0.1_scale-180.appx
